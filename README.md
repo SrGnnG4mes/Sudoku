@@ -2,7 +2,6 @@
 
 Um jogo de **Sudoku completo** com interface gráfica em Python. Conta com tabuleiros aleatórios, verificação automática da solução, níveis de dificuldade, ranking de tempos e a opção de salvar e continuar o jogo depois!
 
-![screenshot](screenshot.png)
 
 ## 🎮 Funcionalidades
 
