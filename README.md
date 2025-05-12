@@ -10,7 +10,7 @@ Um jogo de **Sudoku completo** com interface gráfica em Python. Conta com tabul
 - 🔍 Verificador automático de solução
 - ⏱️ Temporizador de partida
 - 🎯 Níveis de dificuldade: Fácil, Médio e Difícil
-- 💾 Salvamento automático do progresso
+- 💾 Salvamento manual do progresso
 - 🏆 Ranking de melhores tempos por dificuldade
 - 📦 Exportação para executável (EXE)
 
